@@ -14,8 +14,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #1a6ece;
-  --hover-color: #5eff00;
+  --main-color: #eeff00;
+  --hover-color: #2f0f69;
   --success-color: #43b581;
   --danger-color: #982929;
   /* STATUS COLORS */
