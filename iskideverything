@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] /**
+/**
  * @name ClearVision V7
  * @author ClearVision Team
  * @version 7.0.0
@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://media.discordapp.net/attachments/1274003471573585982/1274049002702245980/nissan_skyline_gt_r_r34_v_spec_ii_nur__gt6__by_vertualissimo_d7klhym.png?ex=68164a98&is=6814f918&hm=e6a746d8b599d6e4429955ae8ae957b205d643dcbf59e20c8a273e0891755d1c&=&format=webp&quality=lossless&width=1554&height=874);
+  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
