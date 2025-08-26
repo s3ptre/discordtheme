@@ -8,7 +8,7 @@
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url(" ");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 /* SETTINGS */
@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://media.discordapp.net/attachments/1274003471573585982/1274049002702245980/nissan_skyline_gt_r_r34_v_spec_ii_nur__gt6__by_vertualissimo_d7klhym.png?ex=68164a98&is=6814f918&hm=e6a746d8b599d6e4429955ae8ae957b205d643dcbf59e20c8a273e0891755d1c&=&format=webp&quality=lossless&width=1554&height=874);
+  --background-image: url(https://media.discordapp.net/attachments/1274003471573585982/1274049002702245980/nissan_skyline_gt_r_r34_v_spec_ii_nur__gt6__by_vertualissimo_d7klhym.png?ex=68af3898&is=68ade718&hm=7841502a47469e9218c9ba3229a6ee03b28a6b03e433812346326a2461687526&=&format=webp&quality=lossless&width=1095&height=616);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   --background-image2: url(https://media.discordapp.net/attachments/1274045621770260622/1274046064651010110/IMG_3223.png?ex=681647dc&is=6814f65c&hm=e67b7aff52003332ab4489413f8cdd1c3a210e8a0564ed976db01e3049813fa2&=&format=webp&quality=lossless);
